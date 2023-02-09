@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/Hello this is Vaibhav=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/HELLO+THIS+IS+VAIBHAV=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 [![@vaibhav832's Holopin board](https://holopin.io/api/user/board?user=vaibhav832)](https://holopin.io/@vaibhav832)
 
 
