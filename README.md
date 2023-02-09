@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Vaibhav832
-- 👀 I’m interested in cyber field and newly developing technologies...
-- 🌱 I’m currently learning full stack web development...
+[![Typing SVG](https://readme-typing-svg.demolab.com/Hello this is Vaibhav=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 [![@vaibhav832's Holopin board](https://holopin.io/api/user/board?user=vaibhav832)](https://holopin.io/@vaibhav832)
 
 
