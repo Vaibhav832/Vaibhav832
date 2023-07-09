@@ -29,14 +29,16 @@ I'm a passionate developer who loves to create amazing things with code.
 
 ## My stats
 
-[![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaibhav832)](https://github.com/Vaibhav832/github-readme-stats)
-[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vaibhav832&layout=compact)](https://github.com/Vaibhav832/github-readme-stats)
+[![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaibhav832&show_icons=true&theme=dark)](https://github.com/Vaibhav832/github-readme-stats)
+[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vaibhav832&layout=compact&show_icons=true&theme=dark)](https://github.com/Vaibhav832/github-readme-stats)
 
 ## My projects
 
 Here are some of my projects that I'm proud of:
 
 - [MovieLanze](https://github.com/Vaibhav832/Movie_Review_Website) - Welcome to my movie review website, created using the latest web technologies including HTML5, CSS3, JavaScript, Bootstrap, and PHP. My site offers a sleek and user-friendly interface for browsing and reading reviews of the latest movies.
+- [Youtube Scrapper](https://github.com/Vaibhav832/Youtube_Scrapper) - A YouTube scraper is a tool that allows you to extract data from videos posted on YouTube. This scraper can extract information such as video titles, descriptions, the number of views the video has, and all the users or viewers.
+- <strong>More projects to be updated soon...</strong>
 
 <!--- [Project 2](https://github.com/userb/project2) - A description of project 2
 
