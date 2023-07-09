@@ -30,6 +30,7 @@ I'm a passionate developer who loves to create amazing things with code.
 ## My stats
 
 [![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaibhav832)](https://github.com/Vaibhav832/github-readme-stats)
+[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vaibhav832&layout=compact)](https://github.com/Vaibhav832/github-readme-stats)
 
 ## My projects
 
