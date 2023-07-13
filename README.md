@@ -1,4 +1,4 @@
-# Hi there, I'm Vaibhav Srivastava 👋
+# Hi, I'm Vaibhav Srivastava 👋
 
 I'm a passionate developer who loves to create amazing things with code.
 
