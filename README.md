@@ -25,7 +25,7 @@ I'm a passionate developer who loves to create amazing things with code.
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
-[![@vaibhav832's Holopin board](https://holopin.io/api/user/board?user=vaibhav832)](https://holopin.io/@vaibhav832)
+[![An image of @vaibhav832's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vaibhav832)](https://holopin.io/@vaibhav832)
 
 ## My stats
 
